@@ -20,5 +20,11 @@ ccc
 eee
 fff
 ddd
+<<<<<<< HEAD
 ddd
 sss
+=======
+
+ddd
+
+>>>>>>> 25c02df (ddd)
