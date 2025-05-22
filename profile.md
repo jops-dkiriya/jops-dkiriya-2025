@@ -12,3 +12,9 @@
 [dkiriya@jops.co.jp]
 
 皆さんと楽しく交流できれば嬉しいです！どうぞよろしくお願いします。😊
+
+aaa
+bbb
+ddd
+ccc
+
